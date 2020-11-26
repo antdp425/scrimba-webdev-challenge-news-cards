@@ -49,3 +49,10 @@ look completely different. Just follow the layout!
    color: white;
    padding: 15px;
  }
+
+ .heading{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: navy;
+ }
